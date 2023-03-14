@@ -1,4 +1,10 @@
-<?php
+
+  
+  
+  
+  
+  
+  <?php
 require('connection.php');
 extract($_POST);
 if(isset($save))
